@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: crud
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jorge.sierra
+Implementation-Vendor-Id: prueba.pracmacol
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/crud
+Created-By: Maven Integration for Eclipse
+
